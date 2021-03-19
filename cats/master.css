@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+#res{
+  list-style: none;
+  padding: 20px;
+}
+
+#res2{
+  list-style: none;
+  padding: 20px;
+}
+
+.blue-ribbon i{
+  color: lightblue;
+}
+
+.pink-ribbon i{
+  color: lightpink;
+}
