@@ -6,7 +6,8 @@
 
 body{
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
   align-items: center;
   height: 50vh;
 }
@@ -21,10 +22,10 @@ body{
   padding: 20px;
 }
 
-.blue-ribbon i{
+/* .blue-ribbon i{
   color: lightblue;
 }
 
 .pink-ribbon i{
   color: lightpink;
-}
+} */
